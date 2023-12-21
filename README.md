@@ -7,10 +7,9 @@
 
 # Contact
 <section
-     style="background-color:#1a1b27; padding: 20px; display: flex; min-height: 100px; align-items: center; justify-content: space-around; border: solid 1px #bbbabc; border-radius: 5px; width: 50%; margin: 10px 0"
 >
   <p 
-  style="display: flex;width:100%; justify-content: space-around"
+  style="display: flex;width:100%; justify-content: flex-start; gap:10px"
   class="connection-container"
   >
     <a href="https://www.linkedin.com/in/piedro-rockembach-nunes-dev/" target="_blank">
