@@ -9,7 +9,7 @@
 <section>
   <p 
   align="center" 
-  style="background-color:#1a1b27; padding: 20px; display: flex; width: 30%; justify-content: space-around; border: solid 1px #bbbabc; border-radius: 5px"
+  style="background-color:#1a1b27; padding: 20px; display: flex; width: 30%; min-height: 100px; align-items: center; justify-content: space-around; border: solid 1px #bbbabc; border-radius: 5px"
   class="connection-container"
   >
     <a href="https://www.linkedin.com/in/piedro-rockembach-nunes-dev/" target="_blank">
