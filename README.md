@@ -13,10 +13,10 @@
   class="connection-container"
   >
     <a href="https://www.linkedin.com/in/piedro-rockembach-nunes-dev/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style=" width: 150%" />
+      <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style=" max-width: 100%" />
     </a>
     <a href="mailto:piedrorn@gmail.com" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"  style=" width: 150%"/>
+      <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"  style="max-width: 100%"/>
     </a>
   </p>
 </section>
