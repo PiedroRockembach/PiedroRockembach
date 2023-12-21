@@ -5,7 +5,23 @@
 💬 You can feel free to contact and ask me anything; even if we don't have an immediate solution, we can find it out together<br><br>
 📖 My favorite hobby is learning a new language or culture. Currently, I’m studying Japanese and improving my English.<br><br>
 
-#GitHub Stats<br><br>
+# Contact
+<section>
+  <p 
+  align="center" 
+  style="background-color:#1a1b27; padding: 20px; display: flex; width: 30%; justify-content: space-around; border: solid 1px #bbbabc; border-radius: 5px"
+  class="connection-container"
+  >
+    <a href="https://www.linkedin.com/in/piedro-rockembach-nunes-dev/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style=" width: 150%" />
+    </a>
+    <a href="mailto:piedrorn@gmail.com" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"  style=" width: 150%"/>
+    </a>
+  </p>
+</section>
+
+# GitHub Stats<br><br>
 ![](https://github-readme-stats.vercel.app/api?username=PiedroRockembach&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PiedroRockembach&theme=tokyonight&hide_border=false)<br/><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiedroRockembach&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10)<br>
