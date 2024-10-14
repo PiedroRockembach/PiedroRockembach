@@ -1,0 +1,43 @@
+
+{
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.7,
+    "editor.fontLigatures": true,
+    "editor.renderLineHighlight": "gutter",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "workbench.statusBar.visible": true,
+    "workbench.colorTheme": "Dracula",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.labelFormat": "short",
+    "explorer.confirmDelete": false,
+    "explorer.compactFolders": false,
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.location": "default",
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.commandCenter": false,
+    "window.titleBarStyle": "custom",
+    "apc.header": { "height": 35},
+    "apc.stylesheet": {
+        ".title-label > h2": "display: none",
+        ".pane-body": "padding: 0 8px",
+    },
+    "terminal.integrated.fontSize": 12,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false
+}
